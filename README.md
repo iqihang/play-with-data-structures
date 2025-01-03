@@ -70,5 +70,5 @@
 
 #### 建议反馈
 
-bug、疑惑、修改建议都欢迎提在 [Issues](https://gitee.com/iqihang/play-with-data-structures-25/issues) 中。
+bug、疑惑、修改建议都欢迎提在 [Issues](https://github.com/iqihang/play-with-data-structures/issues) 中。
 
